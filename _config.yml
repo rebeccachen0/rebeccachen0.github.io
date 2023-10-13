@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Rebecca Chen"
-  avatar           : "profile.png"
+  avatar           : "headshot.png"
   bio              : "PhD Candidate in Physics at Duke University"
   location         : 
   employer         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/rebeccachen0/"
+  linkedin         : "rebeccachen0"
   orcid            : 
   pinterest        :
   soundcloud       :
