@@ -4,6 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+You can find a full list of my publications on NASA ADS [here.](https://ui.adsabs.harvard.edu/public-libraries/ExqZZJwBQyiEKwaEIw9bAw)
 
 ## Supernovae in redMaGiC galaxies
 ![image](/images/HDs_data_beta2.png)
