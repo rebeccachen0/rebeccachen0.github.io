@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-My full CV can be viewed [here.](https://drive.google.com/file/d/1Ch4zV9yjwawyT_B8-0N0TukDs3IVE6BR/view?usp=sharing)
+My full CV can be viewed [here.](https://drive.google.com/file/d/1QU481J8PkoqWjtnbai_Wt3uiXfjOm7ob/view?usp=sharing)
 
-Most recent update: 10/13/2023
+Most recent update: Aug. 9 2024
