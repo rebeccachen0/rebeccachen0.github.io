@@ -14,6 +14,12 @@ Cosmological analyses with Type Ia supernovae (SNe Ia) typically rely heavily on
 ## SN+Host-galaxy photometric redshifts for Ia Cosmology
 ![image](/images/fig8.png)
 
-My most [recent paper](https://arxiv.org/abs/2407.16744) evaluates the cosmological biases that can occur when we use photometric redshifts from **all** types of galaxies, not just those with particularly good photo-z. Using the DES5YR photometrically classified sample, we focus on photo-z estimated from the SN light-curve with a prior from several host galaxy photometric redshift algorithms (SOMPZ, DNF, BPZ) used in the DES 3x2 pt analyses. We also include a full treatment of core-collapse contamination and include a dust-based intrinsic scatter model. We validate these results with detailed catalog-level simulations and find biases in w ~0.02 that are consistently subdominant to the statistical uncertainty. This is a big step forward to showing that we can do a fully photometric (photometric classification AND photometric redshifts) analysis with the upcoming LSST and Roman surveys. 
+My most [recent paper](https://arxiv.org/abs/2407.16744) evaluates the cosmological biases that can occur when we use photometric redshifts from **all** types of galaxies, not just those with particularly good photo-z. Using the DES5YR photometrically classified sample, we focus on photo-z estimated from the SN light-curve with a prior from several machine learning and template fitting host galaxy photometric redshift algorithms (SOMPZ, DNF, BPZ) used in the DES 3x2 pt analyses. We also include a full treatment of core-collapse contamination and include a dust-based intrinsic scatter model. We validate these results with detailed catalog-level simulations and find biases in w ~0.02 that are consistently subdominant to the statistical uncertainty. This is a big step forward to showing that we can do a fully photometric (photometric classification AND photometric redshifts) analysis with the upcoming LSST and Roman surveys. 
+
+## Roman grism redshift recovery efficiency for SNIa host galaxies
+
+Results incoming -- paper in prep.
+
+
 
 
