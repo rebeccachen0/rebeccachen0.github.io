@@ -11,4 +11,4 @@ redirect_from:
 
 My full CV can be viewed [here.](https://drive.google.com/file/d/1QU481J8PkoqWjtnbai_Wt3uiXfjOm7ob/view?usp=sharing)
 
-Most recent update: Aug. 9 2024
+Most recent update: Oct. 2024
