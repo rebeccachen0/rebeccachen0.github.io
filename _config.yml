@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Rebecca Chen"
-description              : &description "Supernova Cosmologist at Duke U."
+name                     : &name "Rebecca C. Chen"
+description              : &description "Brinson Prize Fellow at Stanford/KIPAC/SLAC"
 url                      : https://rebeccachen0.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rebeccachen0.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rebecca Chen"
+  name             : "Rebecca C. Chen"
   avatar           : "headshot.png"
-  bio              : "Supernova Cosmologist at Duke U."
+  bio              : "Brinson Prize Fellow at Stanford/KIPAC/SLAC"
   location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=4CqGrUIAAAAJ&hl=en"
-  email            : "rcc29@duke.edu"
+  email            : "rcchen0@stanford.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
